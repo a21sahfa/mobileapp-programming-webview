@@ -2,6 +2,12 @@
 # Rapport
 
 **Skriv din rapport här!**
+jag forkade appen från webview och la in urlen på android och sedan så ändrade jag namnet på appen.
+efter det så enablade jag internet.
+jag skapade en webview element i content main xml filen och gav den en id.
+jag följde bara instruktionerna från uppgiften och fick hjälp av läraren.
+
+
 
 _Du kan ta bort all text som finns sedan tidigare_.
 
@@ -34,7 +40,8 @@ function errorCallback(error) {
 Bilder läggs i samma mapp som markdown-filen.
 
 ![](android.png)
-
+![] (externalscreenshot.png)
+![] (internalscreenshot.png)
 Läs gärna:
 
 - Boulos, M.N.K., Warren, J., Gong, J. & Yue, P. (2010) Web GIS in practice VIII: HTML5 and the canvas element for interactive online mapping. International journal of health geographics 9, 14. Shin, Y. &
